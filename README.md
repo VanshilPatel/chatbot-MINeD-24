@@ -22,7 +22,7 @@ Experience seamless document interaction with 'Chat with any Scientific Document
 
 ## Demo Video
 
-[Click here to watch the demo video](https://www.example.com) <!-- Replace this link with your actual demo video link -->
+[Click here to watch the demo video](https://drive.google.com/file/d/1gFHm2iR8t4MVS6AYshp62Ua6XoHJON_o/view) <!-- Replace this link with your actual demo video link -->
 
 ## Dependencies and Installation
 
@@ -30,6 +30,7 @@ Install the required dependencies by running the following command:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
